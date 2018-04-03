@@ -63,8 +63,11 @@ border: none;
 .nav-item:last-child{
 	margin-right: 0px;
 }
-.navbar-light .navbar-toggler{
+/*.navbar-light .navbar-toggler{
 	top:-2%!important;
+}*/
+.navbar{
+	padding-top:0!important;
 }
 
 /*HOME*/
